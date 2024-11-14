@@ -2,13 +2,13 @@
 
 This is a text-based shopping cart app.
 
-Support multiple stores. Ask user what store they are going to (out of 2 is fine).If a store is out of stock, give a message telling them to go to other store if the other store has any, but they have to pay for their cart before they leave.
+It supports multiple stores. It asks users what store they are going to (out of 2 is fine). If a store is out of stock, then it gives a message telling them to go to other store if the other store has any, but they have to pay for their cart before they leave.
 
-Support two kinds of toys - add a String to Toy with the toy's name.
+It supports two kinds of toys - add a String to Toy with the toy's name.
 
-Store toys - pointers to dynamic objects, not just objects.
+It stores toys - pointers to dynamic objects, not just objects.
  
-Put toy they want in cart. But tell them you are out if no toys left
+It puts toys they want in shopping cart and tell users if the toys are sold out.
 
-Give Toy a price property and a price. When the user exits, tell them how much they spent by looking at the cart
+It gives Toy a price property and a price. When the users exit, tells them how much they spent by looking at the cart.
  
